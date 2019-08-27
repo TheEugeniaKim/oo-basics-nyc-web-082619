@@ -5,6 +5,10 @@ class Shoe
     @brnad = brand
   end
   
+  def brand 
+    @brand 
+  end
+  
   def color 
     @color = color 
   end 
